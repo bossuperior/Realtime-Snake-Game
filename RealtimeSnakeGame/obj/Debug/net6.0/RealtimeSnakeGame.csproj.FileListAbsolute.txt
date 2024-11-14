@@ -1,0 +1,14 @@
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\bin\Debug\net6.0\RealtimeSnakeGame.exe
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\bin\Debug\net6.0\RealtimeSnakeGame.deps.json
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\bin\Debug\net6.0\RealtimeSnakeGame.runtimeconfig.json
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\bin\Debug\net6.0\RealtimeSnakeGame.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\bin\Debug\net6.0\RealtimeSnakeGame.pdb
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\obj\Debug\net6.0\RealtimeSnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\obj\Debug\net6.0\RealtimeSnakeGame.AssemblyInfoInputs.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\obj\Debug\net6.0\RealtimeSnakeGame.AssemblyInfo.cs
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\obj\Debug\net6.0\RealtimeSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\obj\Debug\net6.0\RealtimeSnakeGame.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\obj\Debug\net6.0\refint\RealtimeSnakeGame.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\obj\Debug\net6.0\RealtimeSnakeGame.pdb
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\obj\Debug\net6.0\RealtimeSnakeGame.genruntimeconfig.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\RealtimeSnakeGame\RealtimeSnakeGame\obj\Debug\net6.0\ref\RealtimeSnakeGame.dll

@@ -1,0 +1,14 @@
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\bin\Debug\net6.0\TurnBasedSnakeGame.exe
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\bin\Debug\net6.0\TurnBasedSnakeGame.deps.json
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\bin\Debug\net6.0\TurnBasedSnakeGame.runtimeconfig.json
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\bin\Debug\net6.0\TurnBasedSnakeGame.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\bin\Debug\net6.0\TurnBasedSnakeGame.pdb
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\obj\Debug\net6.0\TurnBasedSnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\obj\Debug\net6.0\TurnBasedSnakeGame.AssemblyInfoInputs.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\obj\Debug\net6.0\TurnBasedSnakeGame.AssemblyInfo.cs
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\obj\Debug\net6.0\TurnBasedSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\obj\Debug\net6.0\TurnBasedSnakeGame.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\obj\Debug\net6.0\refint\TurnBasedSnakeGame.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\obj\Debug\net6.0\TurnBasedSnakeGame.pdb
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\obj\Debug\net6.0\TurnBasedSnakeGame.genruntimeconfig.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\TurnBasedSnakeGame\TurnBasedSnakeGame\obj\Debug\net6.0\ref\TurnBasedSnakeGame.dll
