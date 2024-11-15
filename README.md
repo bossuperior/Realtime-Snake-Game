@@ -1,6 +1,6 @@
 # Realtime Snake Game
 
-
+Realtime-Snake-Game is a C# console-based strategy game controlled with arrow keys. It features a Computer Player and scores based on the remaining length of the snake's tail.
 
 https://github.com/user-attachments/assets/4680a0af-dd1d-44e7-a59d-dab8458a8092
 
